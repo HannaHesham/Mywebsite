@@ -1,0 +1,85 @@
+body {
+	background-color:lightgrey; 
+}
+h2 {
+	color: red ;
+	text-align: left; 
+    font-family: calibri;
+}
+
+p {
+	font-family: calibri;
+	font-size: 15px;
+	color: black;
+	margin-right: 10%
+	margin-left: 10%
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+   
+
+h1 {
+	font-family:calibri; 
+	text-align:center;
+	color: red;
+}
+
+#stemex img{
+	width: 40%
+    }
+.stem{ display: block;
+ margin-right: auto;
+ margin-left: 5cm;
+ width: 20% }
+
+ IMG.title{display: block;
+ margin-right: auto;
+ margin-left: auto;}
+
+ #sondos p {margin-right: 5cm;}
+
+li{color: blue; 
+font-style: calibri;
+}
+
+
+ .myparagraph{
+ 	margin-left: 10%;
+ 	margin-right: 10%;
+ 	font-family:calibri;
+ }
+
+#mycontainer{width: 750px;
+height: 100%;
+}
+
+.aboutus{color: black;
+font-family: calibri;
+margin-right: 10%;
+margin-left: 10%;}
+
+h1{text-align: center; 
+font-family: calibri; 
+color: red;
+
+.Introduction{color: black;}
+
+IMG.stem{ float: center;
+#sondos { font-style: calibri} 
+
+.Hanna { font-style: calibri;}
+
+a: link { color: white;
+}
+
+a: visited{color:white ;
+}
+
+a:hover{ color:red;
+} 
+
+a: active{ color: white; 
+}
